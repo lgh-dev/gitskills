@@ -2,5 +2,5 @@
 
 Creating a new branch is quick.
 
-Creating a new nch is quick AND simple.
+Creating a new nch is quick AND si
 
